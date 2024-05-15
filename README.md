@@ -1,4 +1,4 @@
-#SynchroFlow--Smart-Traffic-Management-System
+# SynchroFlow--Smart-Traffic-Management-System
 
 SynchroFlow is Smart Traffic Management System model using vehicle recognition and counting using YOLO algorithm to efficiently manage traffic flow.
 This project uses cameras at traffic intersections to take live pictures and measure how crowded the roads are. 
